@@ -18,7 +18,7 @@
 
  		 function changeActiveTurtle(index){
  		 	vm.activeTurtle=index;
- 		 }
+ 		 }   
 
  		 function activateQuiz() {
  		 	quizMetrics.changeState("quiz",true); 
